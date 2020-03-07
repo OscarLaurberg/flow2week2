@@ -16,6 +16,6 @@ https://github.com/OscarLaurberg/Flow2Week1
 
 Solutions for This exercise is meant for week 2 (JavaScript):<br>
 <b>deployed at:</b>
-https://laurberg.codes/flow2/
-<b> Github repo </b><br>
+https://laurberg.codes/flow2/<br>
+<b> Github repo:</b>
 https://github.com/OscarLaurberg/Flow2Week1
