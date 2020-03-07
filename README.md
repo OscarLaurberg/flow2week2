@@ -1,5 +1,7 @@
 # flow2week2
 
+<h2>Comments</h2>
+
 <h3>Cors exercise for Thursday:</h3>
 <br>
 Frontend deployed at:
@@ -10,7 +12,7 @@ laurberg.codes/flow2/api/Person/all (Only using the all api for this exercise)<b
 Github repo for project with cors-headers:
 https://github.com/OscarLaurberg/Flow2Week1
 
-<h3>Front Exercise (Continued from week1)</h3>
+<h3>Frontend Exercise (Continued from week1)</h3>
 
 Solutions for This exercise is meant for week 2 (JavaScript):<br>
 <b>deployed at:</b>
